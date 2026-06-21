@@ -15,6 +15,14 @@ xss/python-flask/
 ├── level-09-javascript-uri/
 └── level-10-unsanitized-field/
 
+## Setup
+```bash
+pip install flask
+python app.py
+```
+
+Then open `http://localhost:5000`
+
 ## Goal
 Bug Bounty and Web Penetration Testing practice.
 
