@@ -14,7 +14,7 @@ xss/python-flask/
 ## Setup
 ```bash
 pip install flask
-python app.py
+python3 app.py
 ```
 
 Then open `http://localhost:5000`
