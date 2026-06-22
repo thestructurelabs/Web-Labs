@@ -1,7 +1,3 @@
-# Web-Labs
-
-Personal web security practice labs.
-
 ## Structure
 xss/python-flask/
 ├── level-01-reflected-xss/
@@ -22,9 +18,3 @@ python app.py
 ```
 
 Then open `http://localhost:5000`
-
-## Goal
-Bug Bounty and Web Penetration Testing practice.
-
-## Author
-Structure Labs
