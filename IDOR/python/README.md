@@ -10,3 +10,12 @@ idor/python-flask/
 ├── level-08-chained-idor-slug/
 ├── level-09-export-report/
 └── level-10-chained-ticket/
+
+## Setup
+```bash
+pip install flask
+python3 app.py
+```
+
+Then open `http://localhost:5000`
+
