@@ -1,3 +1,4 @@
+## Structure
 idor/python-flask/
 ├── level-01-url-parameter-enumeration/
 ├── level-02-hidden-input-field/
